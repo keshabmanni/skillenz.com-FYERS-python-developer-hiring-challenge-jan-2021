@@ -18,19 +18,19 @@ https://cdn.skillenza.com/files/25637ca6-f7ee-4752-b881-075225d082c6/airlines.cs
   csv file
 
 
-# Output1 :
+## Output1 :
 
 {
 "Atlanta, GA: Hartsfield-Jackson Atlanta International": 152,
 "Baltimore, MD: Baltimore/Washington International Thurgood Marshall": 152
 }
-# Output2:
+## Output2:
   “Name and count of the airport which is mentioned the most number of time”
 
-# Output3: 
+## Output3: 
   “Name and count of the airport which is mentioned the least number of time”
 
 
-# Important instructions :
+## Important instructions :
 * You cannot use any CSV parsing libraries to complete this task.
 * You cannot use the counter package in python to get the counts.
